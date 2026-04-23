@@ -1,0 +1,4 @@
+GenVidBench_full/
+.vscode/
+__pycache__/
+*.pyc
